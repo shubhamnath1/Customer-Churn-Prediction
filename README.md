@@ -9,7 +9,6 @@ Note: For best experience upload all the visualization in A4 Landscape format on
 
 # Data: 
  11095 rows x 9 columns
-
 Restaurants (unique ID of restaurants)
 Location
 Cuisines
@@ -19,7 +18,8 @@ Rating
 Votes
 Reviews
 Delivery time
-# Skills: 
+
+#  Skills: 
 Power BI
 Tableau
 Visualization
