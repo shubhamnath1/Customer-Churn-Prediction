@@ -1,4 +1,4 @@
-#Customer churn prediction
+Customer churn prediction
 
 Problem Description :
 Customer churn is the term used to describe the loss of customers from a business or service. It 
